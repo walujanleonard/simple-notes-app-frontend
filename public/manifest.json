@@ -1,0 +1,10 @@
+{
+  "short_name": "Notes App",
+  "name": "Notes App",
+  "icons": [],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff"
+}
